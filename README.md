@@ -1,6 +1,6 @@
 ## Upwork External Links
 
-Chrome Extension to bypass upwork's external link notice. 
+Google Chrome Extension to bypass upwork's external link redirection notice. 
 
 #### Installation
 
