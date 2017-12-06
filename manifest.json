@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Upwork External links",
+  "description": "Bypass the Upwork's External links notice & go to the target page automatically.",
+  "version": "1.0",
+   "content_scripts": [
+    {
+      "matches": ["https://www.upwork.com/leaving*"],
+      "js": ["redirector.js"]
+    }
+  ]
+}
